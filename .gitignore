@@ -16,4 +16,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/.idea
+.idea
+.idea/BASE-react-app.iml
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
